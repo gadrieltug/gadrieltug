@@ -3,7 +3,7 @@
 
 
 - 👋 Ola,eu sou ó @gadrieltug
-- 👀 Meu email é gabriel.hurmam.santo@escola.pr.gov.br
+- 👀 Meu email é [email](gabriel.hurmam.santo@escola.pr.gov.br)
 - 🌱 Eu estou interessado a aprender a programar novas linguagens
 - 💞️ Eu estou aprendendo a programar recentemente a linguagem de javaScripte e Scrach
 
